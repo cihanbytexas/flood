@@ -1,0 +1,12 @@
+{
+  "name": "flood-api",
+  "version": "1.0.0",
+  "description": "BDFD Flood API",
+  "main": "api/flood.js",
+  "scripts": {
+    "start": "node api/flood.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
